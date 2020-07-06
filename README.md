@@ -10,7 +10,7 @@ Right now I'm working as a Senior Software Engineer in [Xendit](https://xendit.c
 - 📝 &mdash; Blogger
 
 ### 👯 I’m looking to collaborate on
-- Any Golang projects that may contribute to OSS and society
+- Any impactful Golang projects to OSS and society
 - Founding a Startup? Let's talk, impress me, then I'll give my everything to help you!
 - Blogging and Writing 
 
