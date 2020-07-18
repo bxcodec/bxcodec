@@ -9,7 +9,7 @@ Right now I'm working as a Senior Software Engineer in [Xendit](https://xendit.c
 ### 🌱 My Values
 - 🤔 &mdash; Passionate on Startup culture, “Move Fast and Fix Things", with expertise in Software Architecture, Microservices Architecture and Design, API Development and Go (Golang). <br> 
 - 😎 &mdash; OSS DNA.
-- [![Stats](https://github-readme-stats.vercel.app/api?username=bxcodec)](https://github.com/anuraghazra/github-readme-stats)
+- ![github stats](https://github-readme-stats.vercel.app/api?username=bxcodec&show_icons=true)
 - 📝 &mdash; Blogger
 
 ### 👯 I’m looking to collaborate on
