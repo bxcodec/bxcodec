@@ -26,5 +26,6 @@ Right now I'm working as a Senior Software Engineer in [Xendit](https://xendit.c
 ### 📮 Get In Touch!
 - Twitter: https://twitter.com/bxcodec
 - Personal Blog: https://bxcodec.io/
+- Medium: https://medium.com/@imantumorang
 - LinkedIn: https://www.linkedin.com/in/imantumorang/
 
