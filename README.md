@@ -8,10 +8,9 @@ Right now I'm working as a Senior Software Engineer in [Xendit](https://xendit.c
 
 ### 🌱 My Values
 - 🤔 &mdash; Passionate on Startup culture, “Move Fast and Fix Things", with expertise in Software Architecture, Microservices Architecture and Design, API Development and Go (Golang). <br> 
-- 😎 &mdash; OSS DNA.
-- ![github stats](https://github-readme-stats.vercel.app/api?username=bxcodec&show_icons=true)
-- 📝 &mdash; Blogger
-- <table cellspacing="0" cellpadding="0" style="border:none">
+- 😎 &mdash; OSS DNA. <br> ![github stats](https://github-readme-stats.vercel.app/api?username=bxcodec&show_icons=true)
+- 📝 &mdash; Blogger <br>
+ <table cellspacing="0" cellpadding="0" style="border:none">
   <tbody>
     <tr>
       <td><a target="_blank" href="https://bxcodec.vercel.app/medium/0"><img src="https://bxcodec.vercel.app/medium/0" alt="Medium Index 0"></a></td>
