@@ -7,7 +7,17 @@ export const getArticle = async (index) => {
   } = await axios.get(
     'https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@imantumorang'
   );
-  const { title, pubDate, link: url, thumbnail, description } = items[
+
+  let  fixItem: any[] = []
+
+  items.forEach(element => {
+  const { thumbnail } = element
+    if (thumbnail.includes("cdn")) {
+        fixItem.push(element)
+    }
+  });
+ 
+  const { title, pubDate, link: url, thumbnail, description } = fixItem[
     // @ts-ignore
     index || 0
   ];
