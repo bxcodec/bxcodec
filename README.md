@@ -11,6 +11,11 @@ Right now I'm working as a Senior Software Engineer in [Xendit](https://xendit.c
 - 😎 &mdash; OSS DNA.
 - ![github stats](https://github-readme-stats.vercel.app/api?username=bxcodec&show_icons=true)
 - 📝 &mdash; Blogger
+- <a target="_blank" href="https://alfari16.vercel.app/medium/0"><img src="https://alfari16.vercel.app/medium/0" alt="Medium Index 0"></a>
+
+- <a target="_blank" href="https://alfari16.vercel.app/medium/1"><img src="https://alfari16.vercel.app/medium/1" alt="Medium Index 1"></a>
+
+- <a target="_blank" href="https://alfari16.vercel.app/medium/2"><img src="https://alfari16.vercel.app/medium/2" alt="Medium Index 2"></a>
 
 ### 👯 I’m looking to collaborate on
 - Any impactful Golang projects to OSS and society
