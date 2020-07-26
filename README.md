@@ -11,11 +11,22 @@ Right now I'm working as a Senior Software Engineer in [Xendit](https://xendit.c
 - 😎 &mdash; OSS DNA.
 - ![github stats](https://github-readme-stats.vercel.app/api?username=bxcodec&show_icons=true)
 - 📝 &mdash; Blogger
-- <a target="_blank" href="https://bxcodec.vercel.app/medium/0"><img src="https://bxcodec.vercel.app/medium/0" alt="Medium Index 0"></a>
+- <table cellspacing="0" cellpadding="0" style="border:none">
+  <tbody>
+    <tr>
+      <td><a target="_blank" href="https://bxcodec.vercel.app/medium/0"><img src="https://bxcodec.vercel.app/medium/0" alt="Medium Index 0"></a></td>
+    </tr>
+    <tr>
+      <td><a target="_blank" href="https://bxcodec.vercel.app/medium/1"><img src="https://bxcodec.vercel.app/medium/1" alt="Medium Index 1"></a></td>
+    </tr>
+    <tr>
+      <td><a target="_blank" href="https://bxcodec.vercel.app/medium/2"><img src="https://bxcodec.vercel.app/medium/2" alt="Medium Index 2"></a></td>
+    </tr>
+  </tbody>
+</table>
+ 
 
-- <a target="_blank" href="https://bxcodec.vercel.app/medium/1"><img src="https://bxcodec.vercel.app/medium/1" alt="Medium Index 1"></a>
 
-- <a target="_blank" href="https://bxcodec.vercel.app/medium/2"><img src="https://bxcodec.vercel.app/medium/2" alt="Medium Index 2"></a>
 
 ### 👯 I’m looking to collaborate on
 - Any impactful Golang projects to OSS and society
