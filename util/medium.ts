@@ -31,13 +31,13 @@ export const getArticle = async (index) => {
   const imgType = imgTypeArr[imgTypeArr.length - 1];
   const convertedThumbnail = `data:image/${imgType};base64,${base64Img}`;
   return {
-    title: title.length > 56 ? title.substring(0, 56) + ' ...' : title,
+    title: title.length > 80 ? title.substring(0, 80) + ' ...' : title,
     thumbnail: convertedThumbnail,
     url,
     date: moment(pubDate).format('DD MMM YYYY, HH:mm'),
     description:
       description
         .replace(/<h3>.*<\/h3>|<figcaption>.*<\/figcaption>|<[^>]*>/gm, '')
-        .substring(0, 150) + '...',
+        .substring(0, 60) + '...',
   };
 };
