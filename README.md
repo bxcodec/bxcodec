@@ -10,9 +10,9 @@ Right now I'm working as a Senior Software Engineer in [Xendit](https://xendit.c
 - 🤔 &mdash; Passionate on Startup culture, “Move Fast and Fix Things", with expertise in Software Architecture, Microservices Architecture and Design, API Development and Go (Golang). <br> 
 - 😎 &mdash; OSS DNA. <br> ![github stats](https://github-readme-stats.vercel.app/api?username=bxcodec&show_icons=true)
 - 📝 &mdash; Blogger, Check my Recent post on Medium! 
-    <br> <a target="_blank" href="https://bxcodec.vercel.app/medium/0"><img src="https://bxcodec.vercel.app/medium/0" alt="Medium Index 0"></a>
-    <br> <a target="_blank" href="https://bxcodec.vercel.app/medium/1"><img src="https://bxcodec.vercel.app/medium/1" alt="Medium Index 1"></a>
-    <br> <a target="_blank" href="https://bxcodec.vercel.app/medium/2"><img src="https://bxcodec.vercel.app/medium/2" alt="Medium Index 2"></a>
+    <br> <a target="_blank" href="https://bxcodec.vercel.app/medium/0"><img src="https://bxcodec.vercel.app/medium/0" alt="Recent Article 0"></a>
+    <br> <a target="_blank" href="https://bxcodec.vercel.app/medium/1"><img src="https://bxcodec.vercel.app/medium/1" alt="Recent Article 1"></a>
+    <br> <a target="_blank" href="https://bxcodec.vercel.app/medium/2"><img src="https://bxcodec.vercel.app/medium/2" alt="Recent Article 2"></a>
 
 
 
