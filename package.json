@@ -1,0 +1,18 @@
+{
+  "name": "bxcodec",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bxcodec/bxcodec.git",
+  "author": "bxcodec <iman@tumorang.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@vercel/node": "^1.7.3"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "faunadb": "^2.14.2",
+    "moment": "^2.27.0",
+    "octonode": "^0.9.5"
+  }
+}
